@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdulhaseeb2
 - 👀 I’m interested in Fullstack Development
-- 🌱 I’m currently working in as a Software Engineer at @Stakater. I work on building kubernetes operators and REST APIs.
+- 🌱 I’m currently working as a Software Engineer at @Stakater. I work on building kubernetes operators and REST APIs.
 - 📫 You can connect with me on [Linkedin](https://www.linkedin.com/in/abdulhaseeb65)
 
 <!---
