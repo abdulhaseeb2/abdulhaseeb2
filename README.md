@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdulhaseeb2
-- 👀 I’m interested in Fullstack Development
+- 👀 I’m interested in golang Development
 - 🌱 I’m currently working as a Software Engineer at @Celonis. 
 - 📫 You can connect with me on [Linkedin](https://www.linkedin.com/in/abdulhaseeb65)
 
